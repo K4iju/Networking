@@ -3,7 +3,8 @@
 ## Scenario
 You are creating a home office network. The network's internet access is connected to the left network port in the wall switch plate. You have selected a router and a wireless access point to use. Now you need to connect the devices and configure the network connections.
 
-![image](https://github.com/K4iju/Networking/assets/159083256/4b29c625-410b-4450-98bf-2d962ba14166)
+![image](https://github.com/K4iju/Networking/assets/159083256/418d68da-ab8d-42e4-9c1b-55b7079f121d)
+
 
 
 
@@ -25,8 +26,6 @@ You are creating a home office network. The network's internet access is connect
     - Drag the other **RJ45 Connector** to the left network plug on the wall plate.
 
 ![image](https://github.com/K4iju/Networking/assets/159083256/345460e3-7165-4b52-b2f7-df869b26f271)
-![image](https://github.com/K4iju/Networking/assets/159083256/37b2d9c8-44cb-4fc1-95ae-5f430253969a)
-
 
 
 
@@ -85,6 +84,7 @@ You are creating a home office network. The network's internet access is connect
 
 ![image](https://github.com/K4iju/Networking/assets/159083256/a1a928b6-cbb9-4c7a-be3c-9b7f7b365d1a)
 
+
 ## 5. Configure the Wireless Access Point
 
 ### Steps:
@@ -108,6 +108,8 @@ You are creating a home office network. The network's internet access is connect
 18. In the **Pass Phrase** field, enter `@hOMEwIRELESS!` as the security key.
 19. Select **Apply**.
 
+![image](https://github.com/K4iju/Networking/assets/159083256/659c6ab4-e436-4efb-b0a8-4155bd70e46e)
+![image](https://github.com/K4iju/Networking/assets/159083256/1811a6be-6f53-47d6-8442-8409d5256101)
 
 
 ## 6. Configure the Laptop Wireless Connection
@@ -124,6 +126,8 @@ You are creating a home office network. The network's internet access is connect
 9. Enter `@hOMEwIRELESS!` as the network security key.
 10. Select **Next**.
 11. Using your mouse, hover over the networking icon and verify that the laptop has a connection to the internet.
+
+![image](https://github.com/K4iju/Networking/assets/159083256/629c0ca5-66de-4a80-b140-cd8bb55e5485)
 
 ## 7. Configure the iPad Wireless Connection
 
