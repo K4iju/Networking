@@ -3,6 +3,10 @@
 ## Scenario
 You are creating a home office network. The network's internet access is connected to the left network port in the wall switch plate. You have selected a router and a wireless access point to use. Now you need to connect the devices and configure the network connections.
 
+![image](https://github.com/K4iju/Networking/assets/159083256/4b29c625-410b-4450-98bf-2d962ba14166)
+
+
+
 ## 1. Connect the Router to the Internet
 
 ### Steps:
@@ -20,6 +24,12 @@ You are creating a home office network. The network's internet access is connect
     - Drag an **RJ45 Connector** to the WAN port on the router.
     - Drag the other **RJ45 Connector** to the left network plug on the wall plate.
 
+![image](https://github.com/K4iju/Networking/assets/159083256/345460e3-7165-4b52-b2f7-df869b26f271)
+![image](https://github.com/K4iju/Networking/assets/159083256/37b2d9c8-44cb-4fc1-95ae-5f430253969a)
+
+
+
+
 ## 2. Connect the Desktop Computers to the Router
 
 ### Steps:
@@ -29,6 +39,10 @@ You are creating a home office network. The network's internet access is connect
     - Drag an **RJ45 Connector** to a LAN port on the router.
     - Drag the other **RJ45 Connector** to the network plug on the computer.
 4. Repeat Step 2 to connect **PC2** to the router.
+
+![image](https://github.com/K4iju/Networking/assets/159083256/4bf0bae6-238f-4886-a295-ac9bd8411051)
+
+
 
 ## 3. Configure TCP/IP on the Desktop Computers
 
@@ -44,6 +58,9 @@ You are creating a home office network. The network's internet access is connect
 9. From the top left, select **Computer Desk** to switch back to the **Workspace** view.
 10. On the **PC2** monitor, select **Click to view Windows 11**.
 11. Repeat steps 3b – 3h to configure **PC2**.
+
+![image](https://github.com/K4iju/Networking/assets/159083256/d5160231-7250-40fb-b9f7-ff4b8d6d771f)
+
 
 ## 4. Connect the Wireless Access Point to the Router
 
@@ -61,6 +78,12 @@ You are creating a home office network. The network's internet access is connect
 9. From the **Selected Component** pane:
     - Drag an **RJ45 Connector** to the WAN port on the wireless access point.
     - Drag the other **RJ45 Connector** to a LAN port on the router.
+
+![image](https://github.com/K4iju/Networking/assets/159083256/1fd22fa0-d581-48e6-a684-8f82ebbcf298)
+
+![image](https://github.com/K4iju/Networking/assets/159083256/5a58a9be-ddaa-4bfc-af39-8493ecf9c5c5)
+
+![image](https://github.com/K4iju/Networking/assets/159083256/a1a928b6-cbb9-4c7a-be3c-9b7f7b365d1a)
 
 ## 5. Configure the Wireless Access Point
 
@@ -84,6 +107,8 @@ You are creating a home office network. The network's internet access is connect
 17. Under **WPA**, make sure **AES** is selected.
 18. In the **Pass Phrase** field, enter `@hOMEwIRELESS!` as the security key.
 19. Select **Apply**.
+
+
 
 ## 6. Configure the Laptop Wireless Connection
 
