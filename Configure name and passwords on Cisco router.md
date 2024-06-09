@@ -27,4 +27,4 @@
 
 <h1>Setting router name to R1 </h2>
 
-In the Command Line Interface type 
+In the Command Line Interface, type 'enable' to 
