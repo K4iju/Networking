@@ -9,3 +9,4 @@
 |Lab|Skills|
 |----|------|
 |Creating home office network|Familiarity with routers, RJ45 cables, and WAP, configuring TCP/IP|
+|Troubleshooting Network|Identify hardware and network problem, gathered information from network topology, configured IP address, subnet mask, gateway, and DNS, ping DNS on powershell to verify connectivity with the internet|
